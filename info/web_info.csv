@@ -1,0 +1,6 @@
+﻿Cancer type,Total # of cohorts,Total # samples,Training cohort,Reference
+Colon cancer,14,3578,TCGA,"Guinney, J. et al. The consensus molecular subtypes of colorectal cancer. Nat. Med. (2015). doi:10.1038/nm.3967"
+Breast cancer,10,4148,TCGA,"Parker, J. S. et al. Supervised risk predictor of breast cancer based on intrinsic subtypes. J. Clin. Oncol. 27, 1160–1167 (2009)."
+Ovarian cancer,4,1077,MAYO,"Konecny, G. E. et al. Prognostic and therapeutic relevance of molecular subtypes in high-grade serous ovarian cancer. J. Natl. Cancer Inst. 106, (2014)."
+Gastric cancer,4,960,ARCG,"Cristescu R, Lee J, Nebozhyn M, Kim KM et al. Molecular analysis of gastric cancer identifies subtypes associated with distinct clinical outcomes. Nat Med2015 May;21(5):449-56. PMID: 25894828"
+Total,32,9763,,
